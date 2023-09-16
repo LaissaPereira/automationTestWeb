@@ -1,0 +1,31 @@
+{
+    "success": {
+        "name": "Read a TypeScript book",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Buy duplicate books",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Payed the bills of month",
+        "is_done":false
+    },
+    "delete": {
+        "name": "Delete the task",
+        "is_done":false
+    },
+
+    "messageAlert": {
+        "text": "Task already exists!"
+    }
+
+
+
+
+
+}
